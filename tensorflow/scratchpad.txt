@@ -1,0 +1,18 @@
+22-12-2017
+
+Just starting out with Tensorflow. At this point, though I have a little knowledge with machine learning, I would consider
+as a novice. I'm really excited about this!
+
+This is what I have followed to setup TF.
+https://www.tensorflow.org/install/install_mac
+
+23-12-2017
+
+Today I have learned about the following in tensorflow
+1. Constants
+2. Placeholders
+3. Numerical operations
+4. Variables
+5. Calculating loss by comparing with existing data
+6. Optimizers
+7. Training models
